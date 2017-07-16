@@ -1,0 +1,9 @@
+[submodule "octo-head"]
+	path = octo-head
+	url = git@github.com:Ronin11/octo-head.git
+[submodule "octo-mantle"]
+	path = octo-mantle
+	url = git@github.com:Ronin11/octo-mantle.git
+[submodule "octo-tentacle"]
+	path = octo-tentacle
+	url = git@github.com:Ronin11/octo-tentacle.git
